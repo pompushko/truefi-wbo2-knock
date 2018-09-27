@@ -1,0 +1,49 @@
+Removed Pin From Net: NetName=NetC26_2 Pin=C26-2
+Removed Pin From Net: NetName=NetIC6_9 Pin=IC6-9
+Removed Pin From Net: NetName=NetIC6_10 Pin=IC6-10
+Removed Pin From Net: NetName=NetC26_1 Pin=IC6-11
+Removed Pin From Net: NetName=NetC26_2 Pin=R15-1
+Removed Pin From Net: NetName=NetIC6_10 Pin=R15-2
+Removed Pin From Net: NetName=NetIC6_9 Pin=R17-2
+Removed Pin From Net: NetName=NetIC2_22 Pin=TP12-1
+Removed Pin From Net: NetName=NetIC2_21 Pin=TP14-1
+Removed Member From Class: ClassName=Sheet1 Member=TP12
+Removed Member From Class: ClassName=Sheet1 Member=TP14
+Added Component: Designator=C35(0603)
+Added Component: Designator=IC9(PUQFN-N10)
+Added Component: Designator=R43(0603)
+Added Component: Designator=R44(0603)
+Added Pin To Net: NetName=NetIC6_9 Pin=C26-2
+Added Pin To Net: NetName=GND Pin=C35-1
+Added Pin To Net: NetName=+5V Pin=C35-2
+Added Pin To Net: NetName=NetC26_2 Pin=IC6-9
+Added Pin To Net: NetName=NetIC6_9 Pin=IC6-10
+Added Pin To Net: NetName=NetIC2_21 Pin=IC9-1
+Added Pin To Net: NetName=GND Pin=IC9-3
+Added Pin To Net: NetName=NetIC2_22 Pin=IC9-5
+Added Pin To Net: NetName=NetC26_2 Pin=IC9-6
+Added Pin To Net: NetName=+5V Pin=IC9-8
+Added Pin To Net: NetName=NetIC6_10 Pin=IC9-9
+Added Pin To Net: NetName=NetC26_1 Pin=R15-1
+Added Pin To Net: NetName=NetC26_1 Pin=R43-1
+Added Pin To Net: NetName=NetIC6_10 Pin=R43-2
+Added Pin To Net: NetName=CJ1 Pin=R44-1
+Change Net Name : Old Net Name=NetC26_2 New Net Name=RS
+Change Net Name : Old Net Name=NetIC6_9 New Net Name=RM
+Change Net Name : Old Net Name=NetIC6_10 New Net Name=NetIC9_9
+Added Pin To Net: NetName=CM Pin=IC6-11
+Added Pin To Net: NetName=CM Pin=IC9-10
+Added Net: Name=CM
+Added Pin To Net: NetName=NetIC9_2 Pin=IC9-2
+Added Pin To Net: NetName=NetIC9_2 Pin=R15-2
+Added Net: Name=NetIC9_2
+Added Pin To Net: NetName=NetIC9_4 Pin=IC9-4
+Added Pin To Net: NetName=NetIC9_4 Pin=R17-2
+Added Net: Name=NetIC9_4
+Added Pin To Net: NetName=NetIC9_7 Pin=IC9-7
+Added Pin To Net: NetName=NetIC9_7 Pin=R44-2
+Added Net: Name=NetIC9_7
+Added Member To Class: ClassName=Sheet2 Member=Component C35 Cap
+Added Member To Class: ClassName=Sheet2 Member=Component IC9 TS5A23159
+Added Member To Class: ClassName=Sheet2 Member=Component R43 Res
+Added Member To Class: ClassName=Sheet2 Member=Component R44 Res

@@ -1,0 +1,6 @@
+Change Component Footprint: Designator=J2 Old Footprint=43045-0800 New Footprint=43045-0800-wo
+Change Component Footprint: Designator=J5 Old Footprint=43045-0800 New Footprint=43045-0800-wo
+Added Component: Designator=C36(0603)
+Added Pin To Net: NetName=+5V Pin=C36-1
+Added Pin To Net: NetName=GND Pin=C36-2
+Added Member To Class: ClassName=Sheet1 Member=Component C36 Cap

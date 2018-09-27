@@ -1,0 +1,12 @@
+Added Component: Designator=IC9(PUQFN-N10)
+Added Pin To Net: NetName=NetIC2_21 Pin=IC9-1
+Added Pin To Net: NetName=NetIC9_2 Pin=IC9-2
+Added Pin To Net: NetName=GND Pin=IC9-3
+Added Pin To Net: NetName=NetIC9_4 Pin=IC9-4
+Added Pin To Net: NetName=NetIC2_22 Pin=IC9-5
+Added Pin To Net: NetName=RS Pin=IC9-6
+Added Pin To Net: NetName=NetIC9_7 Pin=IC9-7
+Added Pin To Net: NetName=+5V Pin=IC9-8
+Added Pin To Net: NetName=NetIC9_9 Pin=IC9-9
+Added Pin To Net: NetName=CM Pin=IC9-10
+Added Member To Class: ClassName=Sheet2 Member=Component IC9 TS5A23159

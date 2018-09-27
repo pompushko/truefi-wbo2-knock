@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=NetC6_2 Pin=ZQ1-2
+Change Component Footprint: Designator=ZQ1 Old Footprint=HC-49/4SMX New Footprint=KX-9A
+Change Component Comment : Designator=ZQ1 Old Comment=REZONATOR New Comment=QUARTZ_2
+Added Pin To Net: NetName=NetC6_2 Pin=ZQ1-3

@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=CS Pin=IC2-43
+Added Component: Designator=TP3(PAD_R1)
+Added Pin To Net: NetName=NetIC2_43 Pin=IC2-43
+Added Pin To Net: NetName=NetIC2_43 Pin=TP3-1
+Added Net: Name=NetIC2_43
+Added Member To Class: ClassName=Sheet1 Member=Component TP3 TP

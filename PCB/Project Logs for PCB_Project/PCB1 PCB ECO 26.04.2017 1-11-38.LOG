@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=DSP_CLK Pin=IC2-30
+Removed Pin From Net: NetName=DSP_DIO Pin=IC2-31
+Added Pin To Net: NetName=DSP_DIO Pin=IC2-30
+Added Pin To Net: NetName=DSP_CLK Pin=IC2-31

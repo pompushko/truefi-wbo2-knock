@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=NetIC2_29 Pin=IC6-7
+Removed Pin From Net: NetName=NetIC2_29 Pin=R24-1
+Added Component: Designator=R42(0603)
+Added Pin To Net: NetName=NetIC2_29 Pin=R42-2
+Added Pin To Net: NetName=NetIC6_7 Pin=IC6-7
+Added Pin To Net: NetName=NetIC6_7 Pin=R24-1
+Added Pin To Net: NetName=NetIC6_7 Pin=R42-1
+Added Net: Name=NetIC6_7
+Added Member To Class: ClassName=Sheet2 Member=Component R42 Res

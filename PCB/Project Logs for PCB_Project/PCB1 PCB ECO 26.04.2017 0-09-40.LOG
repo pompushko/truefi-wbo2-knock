@@ -1,0 +1,134 @@
+Removed Pin From Net: NetName=SDO Pin=IC1-11
+Removed Pin From Net: NetName=SDI Pin=IC1-12
+Removed Pin From Net: NetName=SCLK Pin=IC1-13
+Removed Pin From Net: NetName=OUT Pin=IC2-10
+Removed Pin From Net: NetName=NetC30_1 Pin=IC2-11
+Removed Pin From Net: NetName=NetC29_1 Pin=IC2-12
+Removed Pin From Net: NetName=CS Pin=IC2-14
+Removed Pin From Net: NetName=SCLK Pin=IC2-15
+Removed Pin From Net: NetName=SDO Pin=IC2-16
+Removed Pin From Net: NetName=SDI Pin=IC2-17
+Removed Pin From Net: NetName=NetIC2_19 Pin=IC2-19
+Removed Pin From Net: NetName=NetIC2_26 Pin=IC2-26
+Removed Pin From Net: NetName=NetIC2_27 Pin=IC2-27
+Removed Pin From Net: NetName=NetIC2_28 Pin=IC2-28
+Removed Pin From Net: NetName=NetIC2_43 Pin=IC2-43
+Removed Pin From Net: NetName=NetIC2_26 Pin=IC6-13
+Removed Pin From Net: NetName=NetIC2_27 Pin=IC6-14
+Removed Pin From Net: NetName=NetIC2_43 Pin=TP1-1
+Removed Pin From Net: NetName=NetIC2_42 Pin=TP2-1
+Removed Pin From Net: NetName=NetIC2_41 Pin=TP3-1
+Removed Pin From Net: NetName=NetIC2_19 Pin=TP13-1
+Removed Member From Class: ClassName=Sheet1 Member=C1
+Removed Member From Class: ClassName=Sheet1 Member=C2
+Removed Member From Class: ClassName=Sheet1 Member=C3
+Removed Member From Class: ClassName=Sheet1 Member=C4
+Removed Member From Class: ClassName=Sheet1 Member=C5
+Removed Member From Class: ClassName=Sheet1 Member=C6
+Removed Member From Class: ClassName=Sheet1 Member=C31
+Removed Member From Class: ClassName=Sheet1 Member=IC1
+Removed Member From Class: ClassName=Sheet1 Member=IC7
+Removed Member From Class: ClassName=Sheet1 Member=J2
+Removed Member From Class: ClassName=Sheet1 Member=R1
+Removed Member From Class: ClassName=Sheet1 Member=R2
+Removed Member From Class: ClassName=Sheet1 Member=R3
+Removed Member From Class: ClassName=Sheet1 Member=R4
+Removed Member From Class: ClassName=Sheet1 Member=R26
+Removed Member From Class: ClassName=Sheet1 Member=R27
+Removed Member From Class: ClassName=Sheet1 Member=R28
+Removed Member From Class: ClassName=Sheet1 Member=R29
+Removed Member From Class: ClassName=Sheet1 Member=TP3
+Removed Member From Class: ClassName=Sheet1 Member=TP13
+Removed Member From Class: ClassName=Sheet1 Member=ZQ1
+Added Component: Designator=C34(0603)
+Added Component: Designator=IC8(MICRO SD CARD 2)
+Added Component: Designator=R34(0603)
+Added Component: Designator=R35(0603)
+Added Component: Designator=R36(0603)
+Added Component: Designator=R37(0603)
+Added Component: Designator=R38(0603)
+Added Component: Designator=R39(0603)
+Added Pin To Net: NetName=GND Pin=C34-1
+Added Pin To Net: NetName=NetIC2_43 Pin=IC1-11
+Added Pin To Net: NetName=NetIC2_28 Pin=IC1-12
+Added Pin To Net: NetName=NetIC2_27 Pin=IC1-13
+Added Pin To Net: NetName=SDO Pin=IC2-10
+Added Pin To Net: NetName=SDI Pin=IC2-11
+Added Pin To Net: NetName=SCLK Pin=IC2-12
+Added Pin To Net: NetName=NetIC2_19 Pin=IC2-14
+Added Pin To Net: NetName=NetIC2_26 Pin=IC2-15
+Added Pin To Net: NetName=CS Pin=IC2-19
+Added Pin To Net: NetName=NetIC2_43 Pin=IC2-26
+Added Pin To Net: NetName=NetIC2_28 Pin=IC2-27
+Added Pin To Net: NetName=NetIC2_27 Pin=IC2-28
+Added Pin To Net: NetName=CS Pin=IC2-43
+Added Pin To Net: NetName=NetIC2_27 Pin=IC6-13
+Added Pin To Net: NetName=NetIC2_43 Pin=IC6-14
+Added Pin To Net: NetName=NetIC2_19 Pin=IC8-2
+Added Pin To Net: NetName=NetIC2_26 Pin=IC8-5
+Added Pin To Net: NetName=GND Pin=IC8-6
+Added Pin To Net: NetName=GND Pin=IC8-10
+Added Pin To Net: NetName=GND Pin=IC8-10
+Added Pin To Net: NetName=GND Pin=IC8-10
+Added Pin To Net: NetName=GND Pin=IC8-10
+Added Pin To Net: NetName=SDI Pin=R34-1
+Added Pin To Net: NetName=NetC30_1 Pin=R34-2
+Added Pin To Net: NetName=SCLK Pin=R35-1
+Added Pin To Net: NetName=NetC29_1 Pin=R35-2
+Added Pin To Net: NetName=SCLK Pin=R36-1
+Added Pin To Net: NetName=GND Pin=R36-2
+Added Pin To Net: NetName=SDI Pin=R37-1
+Added Pin To Net: NetName=GND Pin=R37-2
+Added Pin To Net: NetName=SDO Pin=R38-1
+Added Pin To Net: NetName=OUT Pin=R38-2
+Added Pin To Net: NetName=GND Pin=R39-1
+Added Pin To Net: NetName=SDO Pin=R39-2
+Added Pin To Net: NetName=NetIC2_42 Pin=TP1-1
+Added Pin To Net: NetName=NetIC2_41 Pin=TP2-1
+Change Net Name : Old Net Name=CANH New Net Name=NetIC3_7
+Change Net Name : Old Net Name=CANL New Net Name=NetIC3_6
+Change Net Name : Old Net Name=NetIC2_19 New Net Name=SS1
+Change Net Name : Old Net Name=NetIC2_26 New Net Name=SCK1
+Change Net Name : Old Net Name=NetIC2_27 New Net Name=SCK
+Change Net Name : Old Net Name=NetIC2_28 New Net Name=MOSI
+Change Net Name : Old Net Name=NetIC2_43 New Net Name=MISO
+Change Net Name : Old Net Name=OUT1 New Net Name=NetIC2_38
+Change Net Name : Old Net Name=SCLK New Net Name=NetIC2_12
+Change Net Name : Old Net Name=SDI New Net Name=NetIC2_11
+Change Net Name : Old Net Name=SDO New Net Name=NetIC2_10
+Added Pin To Net: NetName=3.3V Pin=C34-2
+Added Pin To Net: NetName=3.3V Pin=IC8-4
+Added Net: Name=3.3V
+Added Pin To Net: NetName=MISO1 Pin=IC2-16
+Added Pin To Net: NetName=MISO1 Pin=IC8-7
+Added Net: Name=MISO1
+Added Pin To Net: NetName=MOSI1 Pin=IC2-17
+Added Pin To Net: NetName=MOSI1 Pin=IC8-3
+Added Net: Name=MOSI1
+Added Member To Class: ClassName=Sheet2 Member=Component C1 Cap
+Added Member To Class: ClassName=Sheet2 Member=Component C2 Cap
+Added Member To Class: ClassName=Sheet2 Member=Component C3 Cap
+Added Member To Class: ClassName=Sheet2 Member=Component C4 Cap
+Added Member To Class: ClassName=Sheet2 Member=Component C5 Cap
+Added Member To Class: ClassName=Sheet2 Member=Component C6 Cap
+Added Member To Class: ClassName=Sheet2 Member=Component C31 Cap
+Added Member To Class: ClassName=Sheet1 Member=Component C34 Cap
+Added Member To Class: ClassName=Sheet2 Member=Component IC1 TPIC8101
+Added Member To Class: ClassName=Sheet2 Member=Component IC7 LM258
+Added Member To Class: ClassName=Sheet1 Member=Component IC8 MICRO_SD_SLOT
+Added Member To Class: ClassName=Sheet2 Member=Component J2 s-8
+Added Member To Class: ClassName=Sheet2 Member=Component R1 Res
+Added Member To Class: ClassName=Sheet2 Member=Component R2 Res
+Added Member To Class: ClassName=Sheet2 Member=Component R3 Res
+Added Member To Class: ClassName=Sheet2 Member=Component R4 Res
+Added Member To Class: ClassName=Sheet2 Member=Component R26 Res
+Added Member To Class: ClassName=Sheet2 Member=Component R27 Res
+Added Member To Class: ClassName=Sheet2 Member=Component R28 Res
+Added Member To Class: ClassName=Sheet2 Member=Component R29 Res
+Added Member To Class: ClassName=Sheet2 Member=Component R34 Res
+Added Member To Class: ClassName=Sheet2 Member=Component R35 Res
+Added Member To Class: ClassName=Sheet2 Member=Component R36 Res
+Added Member To Class: ClassName=Sheet2 Member=Component R37 Res
+Added Member To Class: ClassName=Sheet2 Member=Component R38 Res
+Added Member To Class: ClassName=Sheet2 Member=Component R39 Res
+Added Member To Class: ClassName=Sheet2 Member=Component ZQ1 QUARTZ_2

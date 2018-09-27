@@ -1,0 +1,16 @@
+Added Component: Designator=R30(0603)
+Added Component: Designator=R31(0603)
+Added Component: Designator=R32(0603)
+Added Component: Designator=R33(0603)
+Added Pin To Net: NetName=NetC33_2 Pin=R30-1
+Added Pin To Net: NetName=NetIC2_39 Pin=R30-2
+Added Pin To Net: NetName=L_OUT Pin=R31-1
+Added Pin To Net: NetName=NetIC7_7 Pin=R31-2
+Added Pin To Net: NetName=NetIC7_6 Pin=R32-1
+Added Pin To Net: NetName=NetIC7_7 Pin=R32-2
+Added Pin To Net: NetName=GND Pin=R33-1
+Added Pin To Net: NetName=NetIC7_6 Pin=R33-2
+Added Member To Class: ClassName=Sheet2 Member=Component R30 Res
+Added Member To Class: ClassName=Sheet2 Member=Component R31 Res
+Added Member To Class: ClassName=Sheet2 Member=Component R32 Res
+Added Member To Class: ClassName=Sheet2 Member=Component R33 Res

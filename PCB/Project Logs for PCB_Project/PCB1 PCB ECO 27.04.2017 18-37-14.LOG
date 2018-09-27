@@ -1,0 +1,23 @@
+Removed Pin From Net: NetName=GND Pin=J5-2
+Removed Pin From Net: NetName=VBAT Pin=J5-4
+Removed Pin From Net: NetName=NetIC2_40 Pin=TP4-1
+Removed Member From Class: ClassName=Sheet1 Member=TP4
+Added Component: Designator=IC10(DIP-8)
+Added Component: Designator=R45(0603)
+Added Component: Designator=R46(0603)
+Added Pin To Net: NetName=+5V Pin=IC10-1
+Added Pin To Net: NetName=NetIC2_40 Pin=IC10-7
+Added Pin To Net: NetName=+5V Pin=IC10-8
+Added Pin To Net: NetName=VBAT Pin=J5-2
+Added Pin To Net: NetName=+3.3V Pin=R45-1
+Added Pin To Net: NetName=NetIC2_40 Pin=R45-2
+Change Net Name : Old Net Name=NetIC2_40 New Net Name=N1
+Added Pin To Net: NetName=NetIC10_2 Pin=IC10-2
+Added Pin To Net: NetName=NetIC10_2 Pin=R46-1
+Added Net: Name=NetIC10_2
+Added Pin To Net: NetName=NetJ5_4 Pin=J5-4
+Added Pin To Net: NetName=NetJ5_4 Pin=R46-2
+Added Net: Name=NetJ5_4
+Added Member To Class: ClassName=Sheet1 Member=Component IC10 HCPL0630
+Added Member To Class: ClassName=Sheet1 Member=Component R45 Res
+Added Member To Class: ClassName=Sheet1 Member=Component R46 Res
